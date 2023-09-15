@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="tasks_list">Tasks List</string>
+    <string name="tasks_settings">Tasks Settings</string>
+    <string name="settings">String\n</string>
+    <string name="setrings">String</string>
+    <string name="Settings">Settings</string>
+    <string name="list">List</string>
+</resources>
